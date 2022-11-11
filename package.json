@@ -65,7 +65,7 @@
     "https-proxy-agent": "^5.0.0",
     "jpeg-js": "^0.4.2",
     "mime": "^2.4.6",
-    "minimatch": "^3.0.3",
+    "minimatch": "^3.0.5",
     "ms": "^2.1.2",
     "pirates": "^4.0.1",
     "pixelmatch": "^5.2.1",
